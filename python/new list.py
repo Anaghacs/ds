@@ -3,11 +3,11 @@ l2=[78,5,2,10]
 print(l1)
 print(l2)
 c=0
-if(len(l1)==len(12)):
+if(len(l1)==len(l2)):
     print("number of elements in both list are equal")
 else:
-    print("Sum of the elements in list 1:",sum(l1)
-    print("sum of the elemnets in list 2:",sum(l2)
+    print("Sum of the elements in list 1:",sum(l1))
+    print("sum of the elemnets in list 2:",sum(l2))
 if sum(l1)==sum(l2):
     print("sum of the elements in both lists are equal")
 else:
