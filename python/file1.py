@@ -1,0 +1,6 @@
+f=open("anagha.txt","r")
+s=f.read()
+print(s)
+f=open("anagha1.txt","w")
+f.write(s)
+f.close()
